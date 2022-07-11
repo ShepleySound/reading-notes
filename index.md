@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
+## Table of Contents
+- [Assignment 1](#assignment-1)
+- [Assignment 2](#assignment-2)
+- [Assignment 3](#assignment-3)
+- [Assignment 4](#assignment-4)
+- [Assignment 5](#assignment-5)
+- [Assignment 6](#assignment-6)
+- [Assignment 7](#assignment-7)
+- [Assignment 8](#assignment-8)
+- [Assignment 9](#assignment-9)
+- [Assignment 10](#assignment-10)
+- [Assignment 11](#assignment-11)
+- [Assignment 12](#assignment-12)
+- [Assignment 13](#assignment-13)
+- [Assignment 14](#assignment-14)
+- [Assignment 15](#assignment-15)
+  
+  ---
 
-You can use the [editor on GitHub](https://github.com/ShepleySound/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShepleySound/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Assignment 1
+*Insert text here*
+## Assignment 2
+*Insert text here*
+## Assignment 3
+*Insert text here*
+## Assignment 4
+*Insert text here*
+## Assignment 5
+*Insert text here*
+## Assignment 6
+*Insert text here*
+## Assignment 7
+*Insert text here*
+## Assignment 8
+*Insert text here*
+## Assignment 9
+*Insert text here*
+## Assignment 10
+*Insert text here*
+## Assignment 11
+*Insert text here*
+## Assignment 12
+*Insert text here*
+## Assignment 13
+*Insert text here*
+## Assignment 14
+*Insert text here*
+## Assignment 15
+*Insert text here*
