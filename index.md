@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 ## Table of Contents
 - [Assignment 1](class-01.md)
-- Assignment 2
+- [Assignment 2](class-02.md)
 - Assignment 3
 - Assignment 4
 - Assignment 5
