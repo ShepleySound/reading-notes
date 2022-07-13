@@ -3,7 +3,7 @@
 - [Assignment 1](class-01.md)
 - [Assignment 2](class-02.md)
 - [Assignment 3](class-03.md)
-- Assignment 4
+- [Assignment 4](class-04.md)
 - Assignment 5
 - Assignment 6
 - Assignment 7
