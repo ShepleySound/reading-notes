@@ -21,13 +21,14 @@ An ordered list should be used when the order of the items in a list is importan
 ### The Box Model
 
 1. Describe the CSS properties of `margin` and `padding` as characters in a story. What is their role in a story titled: “The Box Model”?  
-```
-The Wheel of Time turns, and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth comes again. In one Age, called the Third Age by some, an Age yet to come, an Age long past, a wind rose above the misty peaks of HTML.*
 
-Padding pressed against the content rising from the center of the Box, its origins known only to the Dark One. Sweat dripped down Padding's face as she struggled to hold her enemy at bay. The edges held firm, the content remaining separated from the border... For now.
 
-Margin sat on the other side of the border, unaware of the struggle inside. Sitting in the shade of the Box, he eyed a fellow in garb similar to his own - a guard from a nearby element. Sometimes he mingled with the other guards. Where was the harm? Nothing would ever harm their Box.
-```  
+*The Wheel of Time turns, and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth comes again. In one Age, called the Third Age by some, an Age yet to come, an Age long past, a wind rose above the misty peaks of HTML.*
+
+*Padding pressed against the content rising from the center of the Box, its origins known only to the Dark One. Sweat dripped down Padding's face as she struggled to hold her enemy at bay. The edges held firm, the content remaining separated from the border... For now.*
+
+*Margin sat on the other side of the border, unaware of the struggle inside. Sitting in the shade of the Box, he eyed a fellow in garb similar to his own - a guard from a nearby element. Sometimes he mingled with the other guards. Where was the harm? Nothing would ever harm their Box.*
+
 **Note** - The first paragraph comes from the opening of each book in Robert Jordan's *The Wheel of Time* series.  
 
 2. List and describe the four parts of an HTML elements box as referred to by the box model.  
