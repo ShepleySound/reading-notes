@@ -1,4 +1,4 @@
-# Class 05
+# Class 06
 
 ## JavaScript Object Basics
 
