@@ -11,3 +11,14 @@ Forms allow website creators to get easily parsed input from users in a standard
    - `<fieldset>` creates a grouping of form elements that can be easily styled and that are accessible using assistive technologies.
    - `<legend>` acts as a label/header for the `<fieldset>` element. Some screenreaders will read out the `<legend>` content before it reads out each `<label>` to the user to provide further context.
 
+## Learn JS
+1. How would you describe events to a non-technical friend?  
+Events are anything that *happens* on a webpage. This could be something that you do as the user, such as clicking on something, scrolling, or even hovering over something. It could also be something that happens as a side-effect, such as the page finishing a load process or an error occuring.
+2. When using the `addEventListener()` method, what 2 arguments will you need to provide?  
+The first argument is the type of event that is being listened for (such as `'click'`). The second argument is the code that is run whenever the event is triggered.
+3. Describe the event object. Why is the target within the event object useful?  
+The event object defines something that takes place inside of the DOM. It has a `target` property that holds the DOM element that the event listener was called on. This is useful because it allows us to reference data inside or to change something about the `target` element.
+4. What is the difference between event bubbling and event capturing?  
+Event bubbling happens inside-out, starting at the child element and bubbling up through the highest ancestor element. Capturing starts at the highest ancestor (usually `<html>`) and moves down through the hierarchy.
+
+
