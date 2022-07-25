@@ -10,7 +10,7 @@
 - [Assignment 8](class-08.md)
 - [Assignment 9](class-09.md)
 - [Assignment 10](class-10.md)
-- Assignment 11
+- [Assignment 11](class-11.md)
 - Assignment 12
 - Assignment 13
 - Assignment 14
