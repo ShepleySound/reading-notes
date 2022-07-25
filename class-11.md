@@ -9,10 +9,12 @@ Not only have new features, such as `<video>` and `<audio>` elements and new Jav
 3. Why is it important to have fallback content inside the `<video>` element?  
 The fallback content in `<video>` has a different purpose from the `alt` property on the `<img>` element. It provides a fallback for browsers that do not support the video type. Sometimes it is a direct link to the video file.
 4. Write a very short story where `<audio>` and `<video>` are characters.  
-5. 
+
 A long, long time ago, the ancient powers **Flash** and **Silverlight** dominated the land of web design. None could display moving pictures or listen to the sweet sounds of music without using these powers, or else by delving into dark, esoteric magiks.  
 
-But one day, the ruler of the land perished, and a new monarch raised in his place - **HTML5**. This new king raised knights to his service, Sir `<video>` and Sir `<audio>`. These knights were given singular tasks, to aid in the banishment of the now greater power, **Silverlight**, by providing all with the power to move pictures and play sounds. While these knights did not single-handedly defeat these ancient powers, but they were instrumental in providing the kingdom's subjects something even more powerful - Hope. Hope that the kingdom could happily exist in a world without magic.
+But one day, the ruler of the land perished, and a new monarch raised in his place - **HTML5**. This new king raised knights to his service, Sir `<video>` and Sir `<audio>`. These knights were given singular tasks, to aid in the banishment of the now greater power, **Silverlight**, by providing all with the power to move pictures and play sounds. 
+
+While these knights did not single-handedly defeat these ancient powers, but they were instrumental in providing the kingdom's subjects something even more powerful - Hope. Hope that the kingdom could happily exist in a world without magic.
 
 ## A Complete Guide To Grid
 
