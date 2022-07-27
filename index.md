@@ -11,8 +11,8 @@
 - [Assignment 9](class-09.md)
 - [Assignment 10](class-10.md)
 - [Assignment 11](class-11.md)
-- Assignment 12
-- Assignment 13
+- [Assignment 12](class-12.md)
+- [Assignment 13](class-13.md)
 - Assignment 14
 - Assignment 15
   
