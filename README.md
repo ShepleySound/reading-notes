@@ -30,4 +30,8 @@
 - Class 12
 - Class 13
 - Class 14
-- Class 15
+- Class 15  
+
+## To-Do
+- Add table of contents link either at top or bottom of each notes page.
+- Allow for moving backwards/forwards through classes without having to navigate back to the table of contents
