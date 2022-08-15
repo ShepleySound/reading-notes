@@ -1,4 +1,7 @@
 # Code Fellow Reading Notes
+
+<center>This repository holds daily reading notes taken during the course of my time at Code Fellows.</center>
+
 ## Table of Contents
 ### Code 201
 - [Class 01](code201/class-01.md)
