@@ -1,6 +1,6 @@
 # Code Fellow Reading Notes
 
-<center>This repository holds daily reading notes taken during the course of my time at Code Fellows.</center>
+This repository holds daily reading notes taken during the course of my time at Code Fellows.
 
 ## Table of Contents
 ### Code 201
