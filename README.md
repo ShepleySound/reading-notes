@@ -20,8 +20,8 @@ This repository holds daily reading notes taken during the course of my time at 
 
 ### Code 301
 - [Class 01](code301/class-01.md)
-- Class 02
-- Class 03
+- [Class 02](code301/class-02.md)
+- [Class 03](code301/class-03.md)
 - Class 04
 - Class 05
 - Class 06
