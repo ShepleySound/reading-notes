@@ -1,4 +1,4 @@
-# Class 02
+# Class 03
 This class expands on different ways of working with arrays and other iterables in JavaScript and, by extension, React.
 
 ## React Docs - lists and keys
