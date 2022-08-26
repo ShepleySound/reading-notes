@@ -28,7 +28,7 @@ This repository holds daily reading notes taken during the course of my time at 
 - Class 07
 - Class 08
 - Class 09
-- Class 10
+- [Class 10](code301/class-10.md)
 - Class 11
 - Class 12
 - Class 13
