@@ -1,4 +1,4 @@
-# Class 06
+# Class 10
 This class goes over the JavaScript Call Stack and provides information about types of errors.
 
 ## [Understanding the JavaScript Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
