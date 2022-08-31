@@ -28,6 +28,6 @@
 - [Class 10](code301/class-10.md)
 - Class 11
 - [Class 12](code301/class-12.md)
-- Class 13
+- [Class 13](code301/class-13.md)
 - Class 14
 - Class 15
