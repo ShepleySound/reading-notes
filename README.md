@@ -26,13 +26,13 @@ This repository holds daily reading notes taken during the course of my time at 
 - [Class 05](code301/class-05.md)
 - [Class 06](code301/class-06.md)
 - [Class 07](code301/class-07.md)
-- [Class 08](code301/class-08.md)
 - [Class 10](code301/class-10.md)
 - [Class 12](code301/class-12.md)
 - [Class 13](code301/class-13.md)
 - [Class 14](code301/class-14.md)
 
 ### Code 401
+- [Prep - Terminal Practice](code401/prep/terminal-practice.md)
 - [Class 01](code401/class-01.md)
 
 ## To-Do
