@@ -31,15 +31,24 @@ A few commands for file manipulation:
 - `rm` removes files. The -r option can be added to recursively remove files and directories, allowing for the removal of directories that contain files.
 
 ## Cheat Sheet
-| Command | Description |
-|---------|---|
-| pwd | Prints the current directory. |
-| ls | Displays whatever is contained within the current (or given) directory |
-| cd | Changes directories. |
-| man | Displays a manual page for the given command. |
-| man -k | Takes a search term, and searches through the manual pages. |
-| mkdir | Creates a directory. |
-| rmdir | Removes an empty directory. |
-| touch | Creates an empty file. |
-| rm | Removes a file. The -r command makes this recursive. |
-| mv | Moves a file or directory. Can also be used to rename a file or directory. |
+
+### pwd 
+Prints the current directory.
+### ls 
+Displays whatever is contained within the current (or given) directory.
+### cd
+Changes directories.
+### man
+Displays a manual page for the given command.
+### man -k
+Takes a search term, and searches through the manual pages.
+### mkdir
+Creates a directory.
+### rmdir
+Removes an empty directory.
+### touch
+Creates an empty file.
+### rm
+Removes a file. The -r command makes this recursive.
+### mv
+Moves a file or directory. Can also be used to rename a file or directory.
