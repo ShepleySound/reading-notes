@@ -28,6 +28,11 @@
 - [Class 13](code301/class-13.md)
 - [Class 14](code301/class-14.md)
 
-### Code 401
-- [Prep - Terminal Practice](code401/prep/terminal-practice.md)
+### Code 401 - Prep
+- [Terminal Practice](code401/prep/terminal-practice.md)
+- [Data Structures](code401/prep/data-structures.md)
+- [Growth Mindset](code401/prep/growth-mindset.md)
+- [SQL Intro](code401/prep/sql-intro.md)
+
+### Code 401 - Class Notes
 - [Class 01](code401/class-01.md)
