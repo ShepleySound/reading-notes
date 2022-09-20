@@ -3,7 +3,9 @@
 This repository holds daily reading notes taken during the course of my time at Code Fellows.
 
 ## Table of Contents
+
 ### Code 201
+
 - [Class 01](code201/class-01.md)
 - [Class 02](code201/class-02.md)
 - [Class 03](code201/class-03.md)
@@ -19,6 +21,7 @@ This repository holds daily reading notes taken during the course of my time at 
 - [Class 13](code201/class-13.md)  
 
 ### Code 301
+
 - [Class 01](code301/class-01.md)
 - [Class 02](code301/class-02.md)
 - [Class 03](code301/class-03.md)
@@ -32,14 +35,18 @@ This repository holds daily reading notes taken during the course of my time at 
 - [Class 14](code301/class-14.md)
 
 ### Code 401 - Prep
+
 - [Terminal Practice](code401/prep/terminal-practice.md)
 - [Data Structures](code401/prep/data-structures.md)
 - [Growth Mindset](code401/prep/growth-mindset.md)
 - [SQL Intro](code401/prep/sql-intro.md)
 
 ### Code 401 - Class Notes
+
 - [Class 01](code401/class-01.md)
+- [Class 02](code401/class-02.md)
 
 ## To-Do
+
 - Add table of contents link either at top or bottom of each notes page.
 - Allow for moving backwards/forwards through classes without having to navigate back to the table of contents
