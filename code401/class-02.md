@@ -9,6 +9,7 @@ These notes offer a review of my understanding of NodeJS, Express, and NPM so fa
 2. Express the most popular ________.
 
 3. Express is “unopinionated.” What does that mean?
+"Unopinionated" is a way of describing tools and frameworks that are designed in such a way that there is no *single* "correct" way of doing things. By contrast, an opinionated framework is one that is designed with a certain way of performing tasks in mind. It will favor certain design patterns and using anything outside of those design patterns may come with unnecessary friction. By using an unopinionated framework, a developer is more free to use the design patterns that fit their personal problem set or workflow.
 
 4. What is a module and why is modularity useful to us as developers?
 
