@@ -45,6 +45,8 @@ This repository holds daily reading notes taken during the course of my time at 
 
 - [Class 01](code401/class-01.md)
 - [Class 02](code401/class-02.md)
+- [Class 03](code401/class-03.md)
+- [Class 04](code401/class-04.md)
 
 ## To-Do
 
