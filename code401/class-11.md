@@ -1,0 +1,13 @@
+# Class 11
+
+## Event-Driven Programming
+
+1. What native Node.js module allows us to get started with Event Driven Programming?  
+EventEmitter is a module that allows objects to communicate with eachother through the use of events. Listeners are registered, and when an object emits a message that is recognized by a listener, the listener reacts to it in some way.
+
+2. What is the value of Object Oriented Programming used in tandem with Event Driven Programming?  
+Since Object Oriented Programming mainly focuses on how objects are _structured_ and Event Driven Programming focuses on how objects _communicate_ with each other, they can be used together pretty seamlessly. In plain OOP, flow control typically happens through the use of method calls. An object needs something from another object, so it calls that object's method in some way and gets data back from it. When we add in Event Driven Programming, we create a way for objects to ask for data without knowing exactly what method needs to be called. It doesn't even need to know _who_ it is asking for data from! All it needs to know is that it needs to emit a certain message, and potentially expect a response back from _somewhere_. This can aid in creating highly scalable systems.
+
+3. Consider your knowledge of Event Driven Programming in the Web Browser, now explain to a non-technical friend how Event Driven Programming might be useful on the backend using Node.js.  
+Let's think of some services that we might have on a back-end for a shipping site. The site may have services that handle the site's inventory, shipping, customer support, and checkout services. These services need a way to talk to each other, but say we know that all of the services might interact in some way? Shipping needs to know inventory and checkout. Checkout needs to know inventory, customer support, and shipping, etc. So what if we add a service? We'd have to hook them all together, and our work grows exponentially!  
+With Event Driven Architecture, we can have each of these services listen for certain messages and emit their own messages. The services will be triggered, or perform an action, when they hear a message that they're listening for. So now, when we create a service, all we have to do is have it use an existing message, or create a new listener for it and use that listener only where necessary. Much cleaner! It's also faster for you, the user!
