@@ -35,5 +35,9 @@ That's what serverless does for developers, as well. It gives us a way to perfor
 ## CDN
 
 ### What is a CDN?
+A CDN refers to a group of servers that provide quick delivery of content by geographically distributing the servers across a wide area. This allows users to quickly transfer data from the Internet, particularly things like HTML pages, JS files, images, and videos.
+
 ### How does a CDN work with relation to the website visitor?
+Typically, the server closest to the website visitor will respond to the request for content. This often means first connecting to an originating server and being redirected to the nearer server within the CDN.
 ### What are the benefits of employing a CDN?
+Servers on a CDN are able to cache data being used. Think of a video streaming service. They may have a CDN with servers in Oregon, New York, and Mumbai. The videos that often are watched in Mumbai may be very different from the videos that get watched in New York, so a CDN may be able to only cache the data necessary for its nearest userbase. If it doesn't have the data that a user wants, it can reach out to another server, or perhaps a main cluster of servers, and request that data, deciding later whether or not to cache it.
